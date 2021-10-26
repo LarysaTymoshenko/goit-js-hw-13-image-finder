@@ -1,6 +1,6 @@
 import * as basicLightbox from 'basiclightbox';
-// import refs from './refs.js';
-// const { galleryEL } = refs;
+ import refs from './refs.js';
+const { galleryEL } = refs;
 
 galleryEL.addEventListener('click', onImageClick);
 
