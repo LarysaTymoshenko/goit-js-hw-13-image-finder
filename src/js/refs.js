@@ -1,8 +1,4 @@
-// export default {
-//   formEl: document.querySelector('.search-form'),
-//   galleryEl: document.querySelector('.gallery'),
- 
-// }
+
 export default {
   bodyEL: document.querySelector('.body'),
   galleryEL: document.querySelector('.gallery'),
